@@ -1,5 +1,6 @@
 layout: post
 title: "Miecz długi"
+permalink: /DESW
 date: 2023-11-23 11:55 -0000
 categories: DESW
 
