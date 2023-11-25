@@ -7,3 +7,5 @@ Projet for university course.
 ### Buther of monsters
 Project realised in [Code Industry AGH](https://github.com/AGH-Code-Industry)  
 [git repository](https://github.com/AGH-Code-Industry/butcher-of-monsters-monster)  
+
+## [Achievements](https://jflamer.github.io/achievements)
